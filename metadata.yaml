@@ -1,0 +1,44 @@
+_repo: Ivan-le-terrible-ou-La-Russie-au-XVIe-siecle_63714
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Golitsyn, Avgustin Petrovich, kniaz
+    aliases:
+    - Golitzin, Avgustin Petrovich, kniaz
+    - Galitzin, Avgvstin Petrovich, prince
+    - Galitzin, Augustin Petrovich, prince
+    - Golitzyn, Avgustin Petrovich, kniaz
+    birthdate: 1824
+    deathdate: 1875
+    gutenberg_agent_id: '52563'
+    url: http://www.gutenberg.org/2009/agents/52563
+creator:
+  author:
+    agent_name: Tolstoy, Aleksey Konstantinovich, graf
+    aliases:
+    - Tolstoy, Alexis Konstantinovich, graf
+    - Толстой, Алексей Константинович, граф
+    - Tolstoy, Alexei Konstantinovich, graf
+    - Tolstoy, A. K. (Aleksey Konstantinovich), graf
+    - Tolstoy, Aleksei Konstantinovich, Count
+    birthdate: 1817
+    deathdate: 1875
+    gutenberg_agent_id: '40704'
+    url: http://www.gutenberg.org/2009/agents/40704
+    wikipedia: https://en.wikipedia.org/wiki/Aleksey_Konstantinovich_Tolstoy
+description: ''
+gutenberg_issued: '2020-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63714'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- History -- Ivan IV, 1533-1584 -- Fiction'
+- !lcsh 'Ivan IV, Czar of Russia, 1530-1584 -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Ivan le terrible; ou, La Russie au XVIe siècle
+url: http://www.gutenberg.org/ebooks/63714
